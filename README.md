@@ -1,7 +1,7 @@
 # Luna lander
 
 
-This game was created as a practicing in Games for Web.
+*This game was created as a practicing in Games for Web.*
 
 -----------------------------------------------------------------------------------------------------
 
