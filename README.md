@@ -1,7 +1,9 @@
 # Luna lander
 
 
-This project was made for practicing games for web. 
+This game was created as a practicing in Games for Web.
+
+-----------------------------------------------------------------------------------------------------
 
 It is a sigle player game inspired by the old Atari game Lunar Land.
 
